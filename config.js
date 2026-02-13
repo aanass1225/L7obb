@@ -22,7 +22,7 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Let's spend the next 99 valentine's days together 💝 ?",                                    // First interaction
+            text: "Let's spend the next 99 valentine's days together 💝",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
             secretAnswer: "YES YES YES YES YES YES YES YES! ❤️"           // Secret hover message
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "Thank you for always making me feel like the luckiest man in the world! 🎉💝💖💝💓",
+        message: "Here's a little gift i have for you : ",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
